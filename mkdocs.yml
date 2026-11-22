@@ -67,6 +67,9 @@ nav:
       - ADRs:
           - mudancas/adr/index.md
           - Arquitetura por pacotes: mudancas/adr/2026-04-01-arquitetura-por-pacotes.md
+      - Design docs:
+          - mudancas/design/index.md
+          - NF-e no pedido: mudancas/design/2026-11-22-nfe-no-pedido.md
 
 extra:
   social:
