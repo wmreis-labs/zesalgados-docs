@@ -4,4 +4,7 @@ ADR e design doc que mudam só esta interface ficam aqui. Demanda que também mu
 
 A decisão vigente desta interface é [permanecer por pacotes](adr/2026-04-01-arquitetura-por-pacotes.md).
 
-A [folha do caderno da rota](design/2026-11-23-caderno-folha-rota.md) é o que a cozinha imprime e o motorista leva. O corte 1 não marca pagamento.
+| Tipo | Página |
+| --- | --- |
+| ADR | [ADRs do Zé Salgados](adr/index.md) |
+| Design doc | [Design docs do Zé Salgados](design/index.md) |
